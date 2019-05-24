@@ -19,5 +19,6 @@
         include 'settings.php';
         echo $password;
     ?>
+    <img src="img/logo.png" />
 </body>
 </html>
